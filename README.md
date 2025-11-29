@@ -1,2 +1,19 @@
 # open-source quadruped robot
 A fully open-source quadruped robot featuring custom CAD, PCB electronics, and Arduino-based walking firmware.
+
+# CAD
+
+| <img src= "Images/Screenshot 2025-11-28 114347.png" >| <img src= "Images/Screenshot 2025-11-28 114753.png">|
+| --------------------------- | --------------------------- |
+
+# Angular legs
+
+| <img src= "Images/Screenshot 2025-11-28 114310.png" >| <img src= "Images/Screenshot 2025-11-28 115013.png">|
+| --------------------------- | --------------------------- |
+
+
+# CIRCUIT DESIGN
+| <img src= "Images/Screenshot 2025-11-29 084638.png" >| <img src= "Images/Screenshot 2025-11-29 084400.png">|
+| --------------------------- | --------------------------- |
+
+
